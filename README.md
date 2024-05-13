@@ -16,4 +16,8 @@ Moreover, this research uses GRU as well as C-LSTM models other than LSTM and RN
 The significance of using Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), and Convolutional Long Short-Term Memory (C-LSTM) architectures cannot be overemphasized in web traffic anomaly detection. Being recurrent models, RNNs are excellent in holding the sequential dependencies within data, which suits well for modeling the dynamic nature of web traffic. 
 On the other hand, there exist LSTM networks that provide a solution for learning long-term dependence without falling into vanishing gradient problem as they improve recognition of complex patterns that exist within some data pertaining to web traffic. Sometimes GRUs could be used instead since they have simpler gating as compared to those of LSTM although they can still capture temporal dependencies. To this extent, C-LSTM networks combine convolutional layers with LSTM units so both spatial and temporal features can be extracted from web traffic data. This way, the combination enables the model to unveil intricate patterns contained in web traffic making it a stronger predictor of anomalies.
 
+# CODE
+
+If you need the code and dataset contact me - +919363548700(only whatsapp)
+
 
